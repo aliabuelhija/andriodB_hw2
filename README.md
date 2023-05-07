@@ -11,7 +11,7 @@ You can easily add this library to your project by adding the following dependen
 
 ```groovy
 
-	        implementation 'com.github.aliabuelhija:Toast_InStyle:1.0.1'
+	        implementation 'com.github.aliabuelhija:andriodB_hw2:1.2.6'
 
 ```
 
