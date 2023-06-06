@@ -32,7 +32,7 @@ Info Toast
 
 # How To Call
 ```groovy
- CustomToast.makeText(this, Toast.LENGTH_SHORT,CustomToast.DEFAULT, "Toast is working",false).show();
+ StyleToast.makeText(this, Toast.LENGTH_SHORT,CustomToast.DEFAULT, "Toast is working",false).show();
 
 
 ```
@@ -54,7 +54,7 @@ To use the Network Helper library in your Java project, simply create an instanc
 java
 
 ```groovy
- CustomToast.makeText(this, Toast.LENGTH_SHORT,CustomToast.DEFAULT, "Toast is working",false).show();
+ StyleToast.makeText(this, Toast.LENGTH_SHORT,CustomToast.DEFAULT, "Toast is working",false).show();
 
 
 ```
